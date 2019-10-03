@@ -2,12 +2,12 @@
 
 I have created a interactive user defined Shell in C.
 
-#Instructions to run:
+# Instructions to run:
 - Type "make" without quotes on terminal.
 - Then type ./shell to run file.
 
 
-#Features Implemented:
+# Features Implemented:
 
 - All Commands work as they work on real Terminal.
 - Current Working directory ismade as home directory.
@@ -44,7 +44,7 @@ key is pressed
 - Background processes are made with '&' at end of command
 - Piping and redirection are also handled.
 
-#Description of files:
+# Description of files:
 - bg.c
 	- bg
 - clear.c
