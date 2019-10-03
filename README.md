@@ -51,7 +51,7 @@ key is pressed
 	- clear
 - echo.c
  	- echo
- -env.c
+- env.c
  	- setenv
  	- unsetenv
  - fg.c
